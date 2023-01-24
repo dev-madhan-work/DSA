@@ -4,8 +4,7 @@
 def removeDuplicates(arr,index):
     print("index:",index)
     for n in range(index):
-        21\][poiuytrewsqa\
-            KJHGFDCSXZA]
+        
 
             
 
