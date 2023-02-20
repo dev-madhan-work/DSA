@@ -1,7 +1,6 @@
 # 12 16 18 24 3 5 8 10
 
 def arrayRotationHelper(arr, low, high):
-    print("Low: ",low,"High:",high)
     while low <= high:
         mid = low + ((high-low)//2)
         if arr[mid] > arr[mid+1] and mid < high:
